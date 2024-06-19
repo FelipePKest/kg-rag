@@ -10,18 +10,13 @@ print(env)
 openai_key = os.environ.get('OPENAI_API_KEY')
 
 
-# host = os.environ.get('NEO4J_URL')
-# user = os.environ.get('NEO4J_USER')
-# password = os.environ.get('NEO4J_PASS')
+host = os.environ.get('NEO4J_URL')
+user = os.environ.get('NEO4J_USER')
+password = os.environ.get('NEO4J_PASS')
 
-
-host = "bolt://44.223.92.188:7687"
-user = "neo4j"
-password = "sink-sources-legends"
-
-aura_host = "neo4j+s://2b773f31.databases.neo4j.io"
-aura_user = "neo4j"
-aura_password = "U60PgSKQn1y4Mrt4ukpUjE-blPKZsavTaUys146WhDI"
+aura_host = os.environ.get('NEO4J_AURA_URL')
+aura_user = os.environ.get('NEO4J_AURA_USER')
+aura_password = os.environ.get('NEO4J_AURA_PASS')
 
 print(host, user, password)
 # print(aura_host, aura_user, aura_password)
