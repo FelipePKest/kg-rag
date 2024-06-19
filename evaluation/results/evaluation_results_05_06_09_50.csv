@@ -1,0 +1,10 @@
+Pergunta,Resposta,Resposta do Grafo,Score,Classificação
+O botafogo tem quais jogadores?,"Damián Suárez, Danilo Barbosa, Marlon Freitas, John Victor, Bastos, Savarino, Júnior Santos, Lucas Halter, Jeffinho, Luiz Henrique, Hugo","Damián Suárez, Danilo Barbosa, Marlon Freitas, John Victor, Bastos, Savarino, Júnior Santos, Lucas Halter, Jeffinho, Luiz Henrique, Hugo",1.0000000000000002,Correct
+Qual o estadio do Botafogo?,Estádio Nilton Santos,Estádio Nilton Santos,1.0,Correct
+Qual competição o Botafogo esta participando?,Conmebol Libertadores,Conmebol Libertadores 2024,0.948627414385989,Correct
+Quais são os adversarios do Vasco?,"Fortaleza, Audax, Nova Iguaçu, Red Bull Bragantino e Athletico-Pr","Nova Iguaçu, Audax, Red Bull Bragantino, Fortaleza, Athletico-Pr",0.9748826869184797,Correct
+Quais são jogadores jogam no Vasco?,João Victor e Medel ,,0.0,Wrong Cypher
+Com quais times Luis Suárez ja fez gol?,"Nacional, Barcelona, Ajax, Liverpool, Gremio, Atletico De Madrid, Groningen e Inter Miami","Nacional, Groningen, Ajax, Liverpool, Barcelona, Atlético De Madrid, Grêmio, Inter Miami",0.9808685972289941,Correct
+Quais premiações Luis Suárez ja recebeu?,Chuteira de Ouro,Chuteira De Ouro,0.9982504082806714,Correct
+Quais são os jogadores da Ldu?,"Alexander Domínguez, Quintero, Estrada, Jhojan Julio, Ricardo Adé, Quiñónez, Piovi, Angulo, Estupiñán, Facundo Rodríguez, e Alex Arce","Alexander Domínguez, Quintero, Estrada, Jhojan Julio, Ricardo Adé, Quiñónez, Piovi, Angulo, Estupiñán, Facundo Rodríguez, Alex Arce",0.9890283480560753,Correct
+Qual o técnico da Ldu?,Josep Alcácer,Josep Alcácer,0.9999999999999999,Correct

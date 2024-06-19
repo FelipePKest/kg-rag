@@ -1,0 +1,2 @@
+https://ge.globo.com/futebol/times/botafogo/noticia/2024/04/18/textor-dono-do-botafogo-diz-ver-incoerencia-de-leila-do-palmeiras-em-relacao-com-a-cbf.ghtml
+https://ge.globo.com/futebol/times/fluminense/noticia/2024/04/18/fluminense-deve-ter-tres-retornos-importantes-para-o-classico-com-o-vasco.ghtml

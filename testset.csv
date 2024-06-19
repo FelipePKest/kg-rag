@@ -1,0 +1,16 @@
+question,contexts,ground_truth,evolution_type,metadata,episode_done
+What is the match venue for Palmeiras at Allianz Parque?,"[""({'id': 'Allianz Parque'}, 'MATCH_VENUE', {'id': 'Palmeiras'})""]",Allianz Parque,simple,[{}],True
+Who does Botafogo play against?,"[""({'id': 'Botafogo'}, 'PLAYS_AGAINST', {'id': 'Atlético-Go'})""]",Atlético-Go,simple,[{}],True
+Who does Botafogo play against?,"[""({'id': 'Botafogo'}, 'PLAYS_AGAINST', {'id': 'Atlético-Go'})""]",Atlético-Go,simple,[{}],True
+What is the match venue for Palmeiras at Allianz Parque?,"[""({'id': 'Allianz Parque'}, 'MATCH_VENUE', {'id': 'Palmeiras'})""]",Allianz Parque,simple,[{}],True
+What is the match venue for Palmeiras at Allianz Parque?,"[""({'id': 'Allianz Parque'}, 'MATCH_VENUE', {'id': 'Palmeiras'})""]",Allianz Parque,simple,[{}],True
+What is the relationship between Allianz Parque and Palmeiras?,"[""({'id': 'Allianz Parque'}, 'MATCH_VENUE', {'id': 'Palmeiras'})""]",The relationship between Allianz Parque and Palmeiras is that Allianz Parque is the home stadium of Palmeiras.,simple,[{}],True
+Who does Botafogo play against?,"[""({'id': 'Botafogo'}, 'PLAYS_AGAINST', {'id': 'Atlético-Go'})""]",Atlético-Go,simple,[{}],True
+What is the nature of the collaboration between Fred Gomes and Letícia Marques?,"[""({'id': 'Fred Gomes'}, 'COLLABORATED_ON_ARTICLE', {'id': 'Letícia Marques'})""]",nan,simple,[{}],True
+What is the relationship between Allianz Parque and Palmeiras?,"[""({'id': 'Allianz Parque'}, 'MATCH_VENUE', {'id': 'Palmeiras'})""]",The relationship between Allianz Parque and Palmeiras is that Allianz Parque is the home stadium of Palmeiras.,simple,[{}],True
+What is the relationship between Allianz Parque and Palmeiras?,"[""({'id': 'Allianz Parque'}, 'MATCH_VENUE', {'id': 'Palmeiras'})""]",The relationship between Allianz Parque and Palmeiras is that Allianz Parque is the home stadium of Palmeiras.,simple,[{}],True
+What team is Botafogo playing against?,"[""({'id': 'Botafogo'}, 'PLAYS_AGAINST', {'id': 'Atlético-Go'})""]",Atlético-Go,simple,[{}],True
+Who does Botafogo play against?,"[""({'id': 'Botafogo'}, 'PLAYS_AGAINST', {'id': 'Atlético-Go'})""]",Atlético-Go,simple,[{}],True
+What is the relationship between Allianz Parque and Palmeiras?,"[""({'id': 'Allianz Parque'}, 'MATCH_VENUE', {'id': 'Palmeiras'})""]",The relationship between Allianz Parque and Palmeiras is that Allianz Parque is the home stadium of Palmeiras.,simple,[{}],True
+What is the nature of the collaboration between Fred Gomes and Letícia Marques?,"[""({'id': 'Fred Gomes'}, 'COLLABORATED_ON_ARTICLE', {'id': 'Letícia Marques'})""]",nan,simple,[{}],True
+What is the nature of the collaboration between Fred Gomes and Letícia Marques?,"[""({'id': 'Fred Gomes'}, 'COLLABORATED_ON_ARTICLE', {'id': 'Letícia Marques'})""]",nan,simple,[{}],True
